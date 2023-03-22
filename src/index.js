@@ -6,10 +6,13 @@ import './bootstrap.min.css'
 import './index.css'
 import App from './App'
 import * as serviceWorker from './serviceWorker'
+import Advertisement from './Advertisement'
 
 ReactDOM.render(
   <Provider store={store}>
+    <Advertisement/>
     <App />
+    <Advertisement/>
   </Provider>,
   document.getElementById('root')
 )
