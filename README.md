@@ -1,3 +1,54 @@
+<hr/>
+
+# Front-end
+<br/>
+Front-end which is used is equal to Reactjs
+
+<hr/>
+
+ # Front-end Source code
+ <br/>
+Front-end Source code's URL is equal to <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S/proshop-mern-s-frontend" target="_blank" >https://github.com/Jagadeesh-Kumar-Initial-Is-S/proshop-mern-s-frontend</a> .
+
+<hr/>
+
+# Front-end Deployed URL
+ <br/>
+Front-end Deployed URL's link is equal to <a href="https://proshop-mern-s-frontend.vercel.app/" target="_blank">https://proshop-mern-s-frontend.vercel.app/</a> .
+
+<hr/>
+
+## Advertisement
+
+Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+
+<hr/>
+
+# Back-end
+<br/>
+Back-end which is used is equal to Nodejs
+
+<hr/>
+
+# Database
+ <br/>
+Database which is used is equal to MongoDB
+
+<hr/>
+
+ # Back-end Source code
+ <br/>
+Back-end Source code's link is equal to <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S/proshop-mern-s-backend" target="_blank">https://github.com/Jagadeesh-Kumar-Initial-Is-S/proshop-mern-s-backend</a> .
+
+<hr/>
+
+ # Back-end Deployed URL
+ <br/>
+Back-end Deployed URL's link is equal to <a href="https://proshop-mern-s-backend.vercel.app/" target="_blank">https://proshop-mern-s-backend.vercel.app/</a> .
+
+<hr/>
+
+
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
